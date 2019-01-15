@@ -14,7 +14,7 @@ public class FracCalc {
 		// TODO: Read the input from the user and call produceAnswer with an equation
 		// Checkpoint 1: Create a Scanner, read one line of input, pass that input to
 		// produceAnswer, print the result.
-		// Checkpoint 2: Accept user input multiple times.
+		// Checkpoint 2: Accept user input multiple times.s
 		boolean done = false;
 	while (!done) {
 		System.out.print("(type \"quit\" to stop) ");
